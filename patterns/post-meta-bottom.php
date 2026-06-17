@@ -3,6 +3,7 @@
 /**
  * Title: Post meta bottom
  * Slug: oystershell-block-theme/post-meta-bottom
+ * Categories: oystershell-block-theme/core
  * Inserter: yes
  * 
  * @package WordPress

@@ -3,6 +3,7 @@
 /**
  * Title: Post meta top
  * Slug: oystershell-block-theme/post-meta-top
+ * Categories: oystershell-block-theme/core
  * Inserter: yes
  * 
  * @package WordPress

@@ -3,9 +3,8 @@
 /**
  * Title: Post navigation
  * Slug: oystershell-block-theme/post-navigation
- * Categories: text
+ * Categories: oystershell-block-theme/core
  * Description: Next and previous post links.
- * Block Types: core/post-navigation-link
  *
  * @package WordPress
  * @subpackage OysterShell_Block_Theme
