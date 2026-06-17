@@ -2,10 +2,9 @@
 
 /**
  * Title: Comments
- * Slug: oystershell-block-theme/comments
+ * Slug: oystershell-block-theme/hidden-comments
  * Description: Comments area with comments list, pagination, and comment form.
- * Categories: text
- * Block Types: core/comments
+ * Inserter: no
  *
  * @package WordPress
  * @subpackage OysterShell_Block_Theme
