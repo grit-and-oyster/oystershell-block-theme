@@ -3,7 +3,12 @@
 /**
  * Title: Search
  * Slug: oystershell-block-theme/hidden-search
+ * Description: Search form.
  * Inserter: no
+ * 
+ * @package WordPress
+ * @subpackage OysterShell_Block_Theme
+ * @since OysterShell Block Theme 1.0
  */
 ?>
 
