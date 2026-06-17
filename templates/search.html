@@ -2,6 +2,43 @@
 
 <!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
 <main class="wp-block-group">
+    <!-- wp:pattern {"slug":"oystershell-block-theme/hidden-search"} /-->
+    <!-- wp:spacer {"height":40} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->     
+	<!-- wp:query-title {"type":"search"} /-->
+
+    	<!-- wp:query {"layout":{"inherit":true}} -->
+	<div class="wp-block-query">
+		<!-- wp:post-template -->
+		<!-- wp:group -->
+		<div class="wp-block-group">
+			<!-- wp:post-title {"isLink":true} /-->
+			<!-- wp:pattern {"slug":"oystershell-block-theme/post-meta-top"} /-->
+			<!-- wp:post-excerpt /-->
+			<!-- wp:spacer {"height":40} -->
+			<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+			<!-- /wp:spacer -->
+		</div>
+		<!-- /wp:group -->
+		<!-- /wp:post-template -->
+		<!-- wp:group {"layout":{"inherit":true}} -->
+			<div class="wp-block-group">
+			<!-- wp:query-pagination -->
+				<!-- wp:query-pagination-previous /-->
+
+				<!-- wp:query-pagination-numbers /-->
+
+				<!-- wp:query-pagination-next /-->
+			<!-- /wp:query-pagination -->
+			</div>
+			<!-- /wp:group -->
+		</div>
+	<!-- /wp:query -->
+
+
+
+
     <p>Search results template.</p>
 </main>
 <!-- /wp:group -->
