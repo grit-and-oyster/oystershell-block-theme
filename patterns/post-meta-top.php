@@ -20,7 +20,7 @@
     <!-- wp:paragraph -->
     <p><?php esc_html_e('on', 'oystershell-block-theme'); ?></p>
     <!-- /wp:paragraph -->
-    <!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
+    <!-- wp:post-date {"format":"M j, Y","isLink":true, "metadata":{"bindings":{"datetime":{"source":"core/post-data","args":{"field":"date"}}}}} /-->
 </div>
 <!-- /wp:group -->
 <!-- wp:post-comments-link /-->
